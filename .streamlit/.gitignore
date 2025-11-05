@@ -1,8 +1,0 @@
-#ignoramos 
-*.txt
-
-. preguntas.html
-
-capturas_de_pantallas
-.streamlit
-.env
